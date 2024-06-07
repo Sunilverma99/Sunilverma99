@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, Node and DSA**
 
-- 📫 How to reach me **sv784333@gmail.com**
+- 📫 How to reach me **sunilverma99706@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
