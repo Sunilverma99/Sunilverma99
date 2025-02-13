@@ -189,7 +189,7 @@
 <a href="https://gist.github.com/Sunilverma99"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Sunilverma99 :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Sunilverma99/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 # Reach out to me #
 
