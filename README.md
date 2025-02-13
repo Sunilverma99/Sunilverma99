@@ -204,7 +204,7 @@ To contact me.
   <tr>
     <td>
       
-- [Welcome!](#AuWaiLun-welcome)
+- [Welcome!](#Sunilverma-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
@@ -216,7 +216,7 @@ To contact me.
 
     </td>
     <td>    
-      <a href="https://sunil-portfolio-six.vercel.app/"><img src="https://github.com/Sunilverma99/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
+      <a href="https://sunil-portfolio-six.vercel.app/"><img src="https://gateway.pinata.cloud/ipfs/bafybeiblqukm5c4mzfg3gbb633h465rdnhdaygwdtlxkhwhhxsa7t5yyri"/></a>
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
