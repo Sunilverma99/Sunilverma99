@@ -15,7 +15,7 @@
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a> -->
 <!-- <a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a> -->
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
-<!-- <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a> -->
+
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
