@@ -152,28 +152,28 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center"> -->
 
 <!--
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 -->
-
+<!-- 
 <a href="https://github.com/Sunilverma99?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/Sunilverma99?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+<a href="https://github.com/Sunilverma99?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a> -->
 
-</p>
+<!-- </p> -->
 
 
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
+<!-- <a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a> -->
 
 
 <!-- activity graph heroku-app start -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph heroku-app end -->
+activity graph heroku-app end -->
 
 
 
@@ -185,9 +185,9 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://gist.github.com/Sunilverma99"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Sunilverma99 :: Visitor's Count" /></a>
-</p>
+</p> -->
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
@@ -213,7 +213,6 @@ To contact me.
     - [✍️ Random Dev Quote](#️-random-dev-quote)
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
 
     </td>
     <td>    
