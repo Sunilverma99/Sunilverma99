@@ -201,7 +201,7 @@
 To contact me.
 
 
-![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
+![](https://github.com/Sunilverma99/Sunilverma99.github.io/blob/master/screenshots/screenshot.gif?raw=true)
 
 <table>
   <tr>
@@ -220,7 +220,7 @@ To contact me.
 
     </td>
     <td>    
-      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
+      <a href="https://sunil-portfolio-six.vercel.app/"><img src="https://github.com/Sunilverma99/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
@@ -231,7 +231,7 @@ To contact me.
 # Welcome!
   
 
-<a href="http://au-portfolio.great-site.net" target="_blank">
+<a href="https://sunil-portfolio-six.vercel.app" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
@@ -247,21 +247,19 @@ To contact me.
 
 ✨ I am a team player and enjoy collaborating with others to achieve a common goal.
 
-✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+✨ Outside of work, I am an avid sports fan, especially when it comes to Kabaddi.
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
-✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
        
-✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
+✨ Preferred Python frameworks   ✔Python, ✔Flask
           
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js ✔React.js, ✔JavaScript
          
 ✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
          
 ✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
          
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
          
 ✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
          
@@ -271,7 +269,7 @@ To contact me.
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
+![Profile views counter](https://komarev.com/ghpvc/?username=Sunilverma99&&style=flat-square)    
 
 <br/>  
 
@@ -279,7 +277,7 @@ To contact me.
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
+- 🔭 I’m currently working on [Blockchain  Deveopment Project]  
   
 
 - 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
@@ -367,21 +365,20 @@ To contact me.
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sunilverma99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sunilverma99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilverma99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sunilverma99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sunilverma99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
 <br/>  
 
- target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a>
